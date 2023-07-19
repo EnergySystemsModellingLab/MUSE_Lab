@@ -1,0 +1,253 @@
+,agent,asset,capital_costs,category,index,installed,region,sector,technology,timeslice,year
+0,A1,0,1778.50613647065,retrofit,0,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'night')",2020
+1,A1,1,15534.13395765205,retrofit,1,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'night')",2020
+2,A1,2,16157.87548787669,retrofit,2,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'night')",2020
+3,A1,3,15848.97492804659,retrofit,3,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'night')",2020
+4,A1,4,23288.04948698739,retrofit,4,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'night')",2020
+5,A1,5,24221.43824111235,retrofit,5,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'night')",2020
+6,A1,6,23754.74386404987,retrofit,6,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'night')",2020
+7,A1,7,3566.14509085264,retrofit,7,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2020
+8,A1,8,0.76487484150,retrofit,8,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'night')",2020
+9,A1,9,1.53746709525,retrofit,9,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'night')",2020
+10,A1,10,114.96832393750,retrofit,10,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'night')",2020
+11,A1,11,1192.07589608870,retrofit,11,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'night')",2020
+12,A1,0,1778.50613647065,retrofit,12,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'morning')",2020
+13,A1,1,15534.13395765205,retrofit,13,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'morning')",2020
+14,A1,2,16157.87548787669,retrofit,14,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'morning')",2020
+15,A1,3,15848.97492804659,retrofit,15,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'morning')",2020
+16,A1,4,23288.04948698739,retrofit,16,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'morning')",2020
+17,A1,5,24221.43824111235,retrofit,17,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'morning')",2020
+18,A1,6,23754.74386404987,retrofit,18,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'morning')",2020
+19,A1,7,3566.14509085264,retrofit,19,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2020
+20,A1,8,0.76487484150,retrofit,20,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'morning')",2020
+21,A1,9,1.53746709525,retrofit,21,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'morning')",2020
+22,A1,10,114.96832393750,retrofit,22,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'morning')",2020
+23,A1,11,1192.07589608870,retrofit,23,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'morning')",2020
+24,A1,0,1778.50613647065,retrofit,24,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'afternoon')",2020
+25,A1,1,15534.13395765205,retrofit,25,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'afternoon')",2020
+26,A1,2,16157.87548787669,retrofit,26,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'afternoon')",2020
+27,A1,3,15848.97492804659,retrofit,27,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'afternoon')",2020
+28,A1,4,23288.04948698739,retrofit,28,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'afternoon')",2020
+29,A1,5,24221.43824111235,retrofit,29,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'afternoon')",2020
+30,A1,6,23754.74386404987,retrofit,30,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'afternoon')",2020
+31,A1,7,3566.14509085264,retrofit,31,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2020
+32,A1,8,0.76487484150,retrofit,32,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'afternoon')",2020
+33,A1,9,1.53746709525,retrofit,33,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'afternoon')",2020
+34,A1,10,114.96832393750,retrofit,34,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'afternoon')",2020
+35,A1,11,1192.07589608870,retrofit,35,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'afternoon')",2020
+36,A1,0,1778.50613647065,retrofit,36,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'early-peak')",2020
+37,A1,1,15534.13395765205,retrofit,37,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'early-peak')",2020
+38,A1,2,16157.87548787669,retrofit,38,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'early-peak')",2020
+39,A1,3,15848.97492804659,retrofit,39,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'early-peak')",2020
+40,A1,4,23288.04948698739,retrofit,40,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'early-peak')",2020
+41,A1,5,24221.43824111235,retrofit,41,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'early-peak')",2020
+42,A1,6,23754.74386404987,retrofit,42,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'early-peak')",2020
+43,A1,7,3566.14509085264,retrofit,43,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2020
+44,A1,8,0.76487484150,retrofit,44,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'early-peak')",2020
+45,A1,9,1.53746709525,retrofit,45,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'early-peak')",2020
+46,A1,10,114.96832393750,retrofit,46,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'early-peak')",2020
+47,A1,11,1192.07589608870,retrofit,47,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'early-peak')",2020
+48,A1,0,1778.50613647065,retrofit,48,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'late-peak')",2020
+49,A1,1,15534.13395765205,retrofit,49,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'late-peak')",2020
+50,A1,2,16157.87548787669,retrofit,50,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'late-peak')",2020
+51,A1,3,15848.97492804659,retrofit,51,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'late-peak')",2020
+52,A1,4,23288.04948698739,retrofit,52,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'late-peak')",2020
+53,A1,5,24221.43824111235,retrofit,53,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'late-peak')",2020
+54,A1,6,23754.74386404987,retrofit,54,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'late-peak')",2020
+55,A1,7,3566.14509085264,retrofit,55,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2020
+56,A1,8,0.76487484150,retrofit,56,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'late-peak')",2020
+57,A1,9,1.53746709525,retrofit,57,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'late-peak')",2020
+58,A1,10,114.96832393750,retrofit,58,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'late-peak')",2020
+59,A1,11,1192.07589608870,retrofit,59,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'late-peak')",2020
+60,A1,0,1778.50613647065,retrofit,60,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'evening')",2020
+61,A1,1,15534.13395765205,retrofit,61,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'evening')",2020
+62,A1,2,16157.87548787669,retrofit,62,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'evening')",2020
+63,A1,3,15848.97492804659,retrofit,63,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'evening')",2020
+64,A1,4,23288.04948698739,retrofit,64,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'evening')",2020
+65,A1,5,24221.43824111235,retrofit,65,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'evening')",2020
+66,A1,6,23754.74386404987,retrofit,66,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'evening')",2020
+67,A1,7,3566.14509085264,retrofit,67,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2020
+68,A1,8,0.76487484150,retrofit,68,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'evening')",2020
+69,A1,9,1.53746709525,retrofit,69,2020,R1,road_cars,Cars - LPG,"('all-year', 'all-week', 'evening')",2020
+70,A1,10,114.96832393750,retrofit,70,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'evening')",2020
+71,A1,11,1192.07589608870,retrofit,71,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'evening')",2020
+0,A1,0,1185.67075764710,retrofit,0,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'night')",2025
+1,A1,1,7767.06697882602,retrofit,1,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'night')",2025
+2,A1,2,10771.91699103096,retrofit,2,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'night')",2025
+3,A1,3,7924.48746402330,retrofit,3,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'night')",2025
+4,A1,4,11644.02474349370,retrofit,4,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'night')",2025
+5,A1,5,16147.62549492098,retrofit,5,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'night')",2025
+6,A1,6,11877.37193202494,retrofit,6,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'night')",2025
+7,A1,7,66899.68039655598,retrofit,7,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2025
+8,A1,8,0.76487484150,retrofit,8,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'night')",2025
+9,A1,9,57.48416196875,retrofit,9,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'night')",2025
+10,A1,10,794.71726405913,retrofit,10,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'night')",2025
+11,A1,0,1185.67075764710,retrofit,12,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'morning')",2025
+12,A1,1,7767.06697882602,retrofit,13,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'morning')",2025
+13,A1,2,10771.91699103096,retrofit,14,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'morning')",2025
+14,A1,3,7924.48746402330,retrofit,15,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'morning')",2025
+15,A1,4,11644.02474349370,retrofit,16,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'morning')",2025
+16,A1,5,16147.62549492098,retrofit,17,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'morning')",2025
+17,A1,6,11877.37193202494,retrofit,18,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'morning')",2025
+18,A1,7,66899.68039655598,retrofit,19,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2025
+19,A1,8,0.76487484150,retrofit,20,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'morning')",2025
+20,A1,9,57.48416196875,retrofit,21,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'morning')",2025
+21,A1,10,794.71726405913,retrofit,22,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'morning')",2025
+22,A1,0,1185.67075764710,retrofit,24,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'afternoon')",2025
+23,A1,1,7767.06697882602,retrofit,25,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'afternoon')",2025
+24,A1,2,10771.91699103096,retrofit,26,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'afternoon')",2025
+25,A1,3,7924.48746402330,retrofit,27,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'afternoon')",2025
+26,A1,4,11644.02474349370,retrofit,28,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'afternoon')",2025
+27,A1,5,16147.62549492098,retrofit,29,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'afternoon')",2025
+28,A1,6,11877.37193202494,retrofit,30,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'afternoon')",2025
+29,A1,7,66899.68039655598,retrofit,31,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2025
+30,A1,8,0.76487484150,retrofit,32,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'afternoon')",2025
+31,A1,9,57.48416196875,retrofit,33,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'afternoon')",2025
+32,A1,10,794.71726405913,retrofit,34,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'afternoon')",2025
+33,A1,0,1185.67075764710,retrofit,36,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'early-peak')",2025
+34,A1,1,7767.06697882602,retrofit,37,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'early-peak')",2025
+35,A1,2,10771.91699103096,retrofit,38,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'early-peak')",2025
+36,A1,3,7924.48746402330,retrofit,39,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'early-peak')",2025
+37,A1,4,11644.02474349370,retrofit,40,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'early-peak')",2025
+38,A1,5,16147.62549492098,retrofit,41,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'early-peak')",2025
+39,A1,6,11877.37193202494,retrofit,42,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'early-peak')",2025
+40,A1,7,66899.68039655598,retrofit,43,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2025
+41,A1,8,0.76487484150,retrofit,44,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'early-peak')",2025
+42,A1,9,57.48416196875,retrofit,45,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'early-peak')",2025
+43,A1,10,794.71726405913,retrofit,46,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'early-peak')",2025
+44,A1,0,1185.67075764710,retrofit,48,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'late-peak')",2025
+45,A1,1,7767.06697882602,retrofit,49,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'late-peak')",2025
+46,A1,2,10771.91699103096,retrofit,50,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'late-peak')",2025
+47,A1,3,7924.48746402330,retrofit,51,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'late-peak')",2025
+48,A1,4,11644.02474349370,retrofit,52,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'late-peak')",2025
+49,A1,5,16147.62549492098,retrofit,53,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'late-peak')",2025
+50,A1,6,11877.37193202494,retrofit,54,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'late-peak')",2025
+51,A1,7,66899.68039655598,retrofit,55,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2025
+52,A1,8,0.76487484150,retrofit,56,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'late-peak')",2025
+53,A1,9,57.48416196875,retrofit,57,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'late-peak')",2025
+54,A1,10,794.71726405913,retrofit,58,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'late-peak')",2025
+55,A1,0,1185.67075764710,retrofit,60,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'evening')",2025
+56,A1,1,7767.06697882602,retrofit,61,2020,R1,road_cars,Cars - Conventional Diesel,"('all-year', 'all-week', 'evening')",2025
+57,A1,2,10771.91699103096,retrofit,62,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'evening')",2025
+58,A1,3,7924.48746402330,retrofit,63,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,"('all-year', 'all-week', 'evening')",2025
+59,A1,4,11644.02474349370,retrofit,64,2020,R1,road_cars,Cars - Conventional Gasoline,"('all-year', 'all-week', 'evening')",2025
+60,A1,5,16147.62549492098,retrofit,65,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'evening')",2025
+61,A1,6,11877.37193202494,retrofit,66,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,"('all-year', 'all-week', 'evening')",2025
+62,A1,7,66899.68039655598,retrofit,67,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2025
+63,A1,8,0.76487484150,retrofit,68,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'evening')",2025
+64,A1,9,57.48416196875,retrofit,69,2020,R1,road_cars,Cars - Natural gas,"('all-year', 'all-week', 'evening')",2025
+65,A1,10,794.71726405913,retrofit,70,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'evening')",2025
+0,A1,0,592.83537882355,retrofit,0,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'night')",2030
+1,A1,1,5385.95849684573,retrofit,1,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'night')",2030
+2,A1,2,8073.81274619137,retrofit,2,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'night')",2030
+3,A1,3,65710.96536627176,retrofit,3,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2030
+4,A1,4,0.50991656100,retrofit,4,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'night')",2030
+5,A1,5,0.00000000000,retrofit,5,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'night')",2030
+6,A1,6,64674.09682250108,retrofit,6,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2030
+7,A1,0,592.83537882355,retrofit,8,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'morning')",2030
+8,A1,1,5385.95849684573,retrofit,9,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'morning')",2030
+9,A1,2,8073.81274619137,retrofit,10,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'morning')",2030
+10,A1,3,65710.96536627176,retrofit,11,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2030
+11,A1,4,0.50991656100,retrofit,12,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'morning')",2030
+12,A1,5,0.00000000000,retrofit,13,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'morning')",2030
+13,A1,6,64674.09682250108,retrofit,14,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2030
+14,A1,0,592.83537882355,retrofit,16,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'afternoon')",2030
+15,A1,1,5385.95849684573,retrofit,17,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'afternoon')",2030
+16,A1,2,8073.81274619137,retrofit,18,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'afternoon')",2030
+17,A1,3,65710.96536627176,retrofit,19,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2030
+18,A1,4,0.50991656100,retrofit,20,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'afternoon')",2030
+19,A1,5,0.00000000000,retrofit,21,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'afternoon')",2030
+20,A1,6,64674.09682250108,retrofit,22,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2030
+21,A1,0,592.83537882355,retrofit,24,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'early-peak')",2030
+22,A1,1,5385.95849684573,retrofit,25,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'early-peak')",2030
+23,A1,2,8073.81274619137,retrofit,26,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'early-peak')",2030
+24,A1,3,65710.96536627176,retrofit,27,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2030
+25,A1,4,0.50991656100,retrofit,28,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'early-peak')",2030
+26,A1,5,0.00000000000,retrofit,29,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'early-peak')",2030
+27,A1,6,64674.09682250108,retrofit,30,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2030
+28,A1,0,592.83537882355,retrofit,32,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'late-peak')",2030
+29,A1,1,5385.95849684573,retrofit,33,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'late-peak')",2030
+30,A1,2,8073.81274619137,retrofit,34,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'late-peak')",2030
+31,A1,3,65710.96536627176,retrofit,35,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2030
+32,A1,4,0.50991656100,retrofit,36,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'late-peak')",2030
+33,A1,5,0.00000000000,retrofit,37,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'late-peak')",2030
+34,A1,6,64674.09682250108,retrofit,38,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2030
+35,A1,0,592.83537882355,retrofit,40,2020,R1,road_cars,Cars - Battery Electric (BEV),"('all-year', 'all-week', 'evening')",2030
+36,A1,1,5385.95849684573,retrofit,41,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,"('all-year', 'all-week', 'evening')",2030
+37,A1,2,8073.81274619137,retrofit,42,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,"('all-year', 'all-week', 'evening')",2030
+38,A1,3,65710.96536627176,retrofit,43,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2030
+39,A1,4,0.50991656100,retrofit,44,2020,R1,road_cars,Cars - Hydrogen fuel cell,"('all-year', 'all-week', 'evening')",2030
+40,A1,5,0.00000000000,retrofit,45,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),"('all-year', 'all-week', 'evening')",2030
+41,A1,6,64674.09682250108,retrofit,46,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2030
+0,A1,0,64522.25033598754,retrofit,0,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2035
+1,A1,1,64674.09682250107,retrofit,1,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2035
+2,A1,2,22936.51882990658,retrofit,2,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2035
+3,A1,0,64522.25033598754,retrofit,4,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2035
+4,A1,1,64674.09682250107,retrofit,5,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2035
+5,A1,2,22936.51882990658,retrofit,6,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2035
+6,A1,0,64522.25033598754,retrofit,8,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2035
+7,A1,1,64674.09682250107,retrofit,9,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2035
+8,A1,2,22936.51882990658,retrofit,10,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2035
+9,A1,0,64522.25033598754,retrofit,12,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2035
+10,A1,1,64674.09682250107,retrofit,13,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2035
+11,A1,2,22936.51882990658,retrofit,14,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2035
+12,A1,0,64522.25033598754,retrofit,16,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2035
+13,A1,1,64674.09682250107,retrofit,17,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2035
+14,A1,2,22936.51882990658,retrofit,18,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2035
+15,A1,0,64522.25033598754,retrofit,20,2020,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2035
+16,A1,1,64674.09682250107,retrofit,21,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2035
+17,A1,2,22936.51882990658,retrofit,22,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2035
+0,A1,0,64674.09682250107,retrofit,0,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2040
+1,A1,1,22936.51882990658,retrofit,1,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2040
+2,A1,2,71762.73306895315,retrofit,2,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2040
+3,A1,0,64674.09682250107,retrofit,4,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2040
+4,A1,1,22936.51882990658,retrofit,5,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2040
+5,A1,2,71762.73306895315,retrofit,6,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2040
+6,A1,0,64674.09682250107,retrofit,8,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2040
+7,A1,1,22936.51882990658,retrofit,9,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2040
+8,A1,2,71762.73306895315,retrofit,10,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2040
+9,A1,0,64674.09682250107,retrofit,12,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2040
+10,A1,1,22936.51882990658,retrofit,13,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2040
+11,A1,2,71762.73306895315,retrofit,14,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2040
+12,A1,0,64674.09682250107,retrofit,16,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2040
+13,A1,1,22936.51882990658,retrofit,17,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2040
+14,A1,2,71762.73306895315,retrofit,18,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2040
+15,A1,0,64674.09682250107,retrofit,20,2025,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2040
+16,A1,1,22936.51882990658,retrofit,21,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2040
+17,A1,2,71762.73306895315,retrofit,22,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2040
+0,A1,0,22936.51882990658,retrofit,0,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2045
+1,A1,1,71762.73306895315,retrofit,1,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2045
+2,A1,2,71451.88282455504,retrofit,2,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2045
+3,A1,0,22936.51882990658,retrofit,4,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2045
+4,A1,1,71762.73306895315,retrofit,5,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2045
+5,A1,2,71451.88282455504,retrofit,6,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2045
+6,A1,0,22936.51882990658,retrofit,8,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2045
+7,A1,1,71762.73306895315,retrofit,9,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2045
+8,A1,2,71451.88282455504,retrofit,10,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2045
+9,A1,0,22936.51882990658,retrofit,12,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2045
+10,A1,1,71762.73306895315,retrofit,13,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2045
+11,A1,2,71451.88282455504,retrofit,14,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2045
+12,A1,0,22936.51882990658,retrofit,16,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2045
+13,A1,1,71762.73306895315,retrofit,17,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2045
+14,A1,2,71451.88282455504,retrofit,18,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2045
+15,A1,0,22936.51882990658,retrofit,20,2030,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2045
+16,A1,1,71762.73306895315,retrofit,21,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2045
+17,A1,2,71451.88282455504,retrofit,22,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2045
+0,A1,0,71762.73306895315,retrofit,0,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2050
+1,A1,1,71451.88282455504,retrofit,1,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2050
+2,A1,2,28407.46728648698,retrofit,2,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'night')",2050
+3,A1,0,71762.73306895315,retrofit,4,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2050
+4,A1,1,71451.88282455504,retrofit,5,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2050
+5,A1,2,28407.46728648698,retrofit,6,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'morning')",2050
+6,A1,0,71762.73306895315,retrofit,8,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2050
+7,A1,1,71451.88282455504,retrofit,9,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2050
+8,A1,2,28407.46728648698,retrofit,10,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'afternoon')",2050
+9,A1,0,71762.73306895315,retrofit,12,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2050
+10,A1,1,71451.88282455504,retrofit,13,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2050
+11,A1,2,28407.46728648698,retrofit,14,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'early-peak')",2050
+12,A1,0,71762.73306895315,retrofit,16,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2050
+13,A1,1,71451.88282455504,retrofit,17,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2050
+14,A1,2,28407.46728648698,retrofit,18,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'late-peak')",2050
+15,A1,0,71762.73306895315,retrofit,20,2035,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2050
+16,A1,1,71451.88282455504,retrofit,21,2040,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2050
+17,A1,2,28407.46728648698,retrofit,22,2045,R1,road_cars,Cars - Gasoline hybrid,"('all-year', 'all-week', 'evening')",2050

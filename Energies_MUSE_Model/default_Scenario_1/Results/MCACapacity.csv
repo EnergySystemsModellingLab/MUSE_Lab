@@ -1,0 +1,42 @@
+,agent,capacity,dst_region,index,installed,region,sector,technology,type,year
+2,A1,5.83530000000,R1,0,2020,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2020
+5,A1,60.73240000000,R1,8,2020,R1,road_cars,Cars - Conventional Diesel,retrofit,2020
+7,A1,60.73240000000,R1,16,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,retrofit,2020
+10,A1,60.73240000000,R1,24,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,retrofit,2020
+12,A1,95.42620000000,R1,32,2020,R1,road_cars,Cars - Conventional Gasoline,retrofit,2020
+14,A1,95.42620000000,R1,40,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,retrofit,2020
+17,A1,95.42620000000,R1,48,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,retrofit,2020
+19,A1,13.98500000000,R1,56,2020,R1,road_cars,Cars - Gasoline hybrid,retrofit,2020
+24,A1,0.00300000000,R1,64,2020,R1,road_cars,Cars - Hydrogen fuel cell,retrofit,2020
+27,A1,0.00450000000,R1,72,2020,R1,road_cars,Cars - LPG,retrofit,2020
+28,A1,0.36300000000,R1,80,2020,R1,road_cars,Cars - Natural gas,retrofit,2020
+30,A1,4.67490000000,R1,88,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),retrofit,2020
+2,A1,3.89020000000,R1,0,2020,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2025
+9,A1,30.36620000000,R1,16,2020,R1,road_cars,Cars - Conventional Diesel,retrofit,2025
+10,A1,40.48830000000,R1,24,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,retrofit,2025
+12,A1,30.36620000000,R1,32,2020,R1,road_cars,Cars - Conventional Diesel_Medium Efficiency,retrofit,2025
+13,A1,47.71310000000,R1,40,2020,R1,road_cars,Cars - Conventional Gasoline,retrofit,2025
+14,A1,63.61750000000,R1,48,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,retrofit,2025
+16,A1,47.71310000000,R1,56,2020,R1,road_cars,Cars - Conventional Gasoline_Medium Efficiency,retrofit,2025
+17,A1,262.35440000000,R1,64,2020,R1,road_cars,Cars - Gasoline hybrid,retrofit,2025
+21,A1,0.00300000000,R1,72,2020,R1,road_cars,Cars - Hydrogen fuel cell,retrofit,2025
+23,A1,0.18150000000,R1,80,2020,R1,road_cars,Cars - Natural gas,retrofit,2025
+24,A1,3.11660000000,R1,88,2020,R1,road_cars,Cars - Plugin Hybrid EV (PHEV),retrofit,2025
+2,A1,1.94510000000,R1,0,2020,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2030
+3,A1,253.62650000000,R1,1,2025,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2030
+14,A1,20.24410000000,R1,24,2020,R1,road_cars,Cars - Conventional Diesel_High Efficiency,retrofit,2030
+15,A1,31.80870000000,R1,32,2020,R1,road_cars,Cars - Conventional Gasoline_High Efficiency,retrofit,2030
+16,A1,257.69270000000,R1,40,2020,R1,road_cars,Cars - Gasoline hybrid,retrofit,2030
+19,A1,0.00200000000,R1,48,2020,R1,road_cars,Cars - Hydrogen fuel cell,retrofit,2030
+2,A1,253.62650000000,R1,0,2025,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2035
+3,A1,89.94800000000,R1,1,2030,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2035
+18,A1,253.03100000000,R1,27,2020,R1,road_cars,Cars - Gasoline hybrid,retrofit,2035
+2,A1,253.62650000000,R1,0,2025,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2040
+3,A1,89.94800000000,R1,1,2030,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2040
+4,A1,281.42530000000,R1,2,2035,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2040
+2,A1,89.94800000000,R1,0,2030,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2045
+3,A1,281.42530000000,R1,1,2035,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2045
+4,A1,280.20630000000,R1,2,2040,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2045
+2,A1,281.42530000000,R1,0,2035,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2050
+3,A1,280.20630000000,R1,1,2040,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2050
+4,A1,111.40300000000,R1,2,2045,R1,road_cars,Cars - Battery Electric (BEV),retrofit,2050

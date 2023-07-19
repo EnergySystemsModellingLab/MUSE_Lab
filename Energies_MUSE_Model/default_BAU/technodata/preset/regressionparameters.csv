@@ -1,0 +1,5 @@
+SectorName,FunctionType,Coeff,RegionName,transport
+road_cars,LogisticSigmoid2,GDPexp,R1,9.84E+01
+road_cars,LogisticSigmoid2,constant,R1,7337.03498
+road_cars,LogisticSigmoid2,GDPscaleLess,R1,29404.7999
+road_cars,LogisticSigmoid2,GDPscaleGreater,R1,3.9833

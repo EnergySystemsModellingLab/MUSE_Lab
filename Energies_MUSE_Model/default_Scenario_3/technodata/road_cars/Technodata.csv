@@ -1,0 +1,50 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,$ / vehicle,-,($/vehicle)year,-,MUS$2010/PJ,-,Bv-km,%,Bv-km,Years,-,PJ,%,-,-,-,-,Retrofit
+Cars - Conventional Diesel,R1,2020,fixed,1534.679437,1,85.9685104,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel,R1,2030,fixed,1537.026939,1,85.9685104,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel,R1,2040,fixed,1539.374441,1,85.9685104,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel,R1,2050,fixed,1541.721943,1,85.9685104,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_Medium Efficiency,R1,2020,fixed,1565.783839,1,87.96777813,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_Medium Efficiency,R1,2030,fixed,1568.131341,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_Medium Efficiency,R1,2040,fixed,1570.478843,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_Medium Efficiency,R1,2050,fixed,1572.826345,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_High Efficiency,R1,2020,fixed,1596.301365,1,87.96777813,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_High Efficiency,R1,2030,fixed,1598.648867,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_High Efficiency,R1,2040,fixed,1600.996369,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Conventional Diesel_High Efficiency,R1,2050,fixed,1603.343871,1,87.96777813,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,diesel,transport,1
+Cars - Battery Electric (BEV),R1,2020,fixed,1828.704063,1,101.5583286,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Battery Electric (BEV),R1,2030,fixed,1435.497477,1,79.7078968,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Battery Electric (BEV),R1,2040,fixed,1354.508658,1,75.1980068,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Battery Electric (BEV),R1,2050,fixed,1345.705525,1,74.72723813,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Conventional Gasoline,R1,2020,fixed,1464.254377,1,81.639589,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline,R1,2030,fixed,1548.764449,1,86.3313442,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline,R1,2040,fixed,1637.969525,1,91.2927304,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline,R1,2050,fixed,1731.869605,1,96.53924313,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_Medium Efficiency,R1,2020,fixed,1493.598152,1,83.2723808,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_Medium Efficiency,R1,2030,fixed,1579.868851,1,88.05797107,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_Medium Efficiency,R1,2040,fixed,1670.247678,1,93.118585,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_Medium Efficiency,R1,2050,fixed,1766.49526,1,98.470028,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_High Efficiency,R1,2020,fixed,1522.941927,1,84.9051726,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_High Efficiency,R1,2030,fixed,1610.386377,1,89.784598,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_High Efficiency,R1,2040,fixed,1703.112706,1,94.94443967,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Conventional Gasoline_High Efficiency,R1,2050,fixed,1801.120915,1,100.4008129,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Plugin Hybrid EV (PHEV),R1,2020,fixed,1529.984433,1,85.2744054,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Plugin Hybrid EV (PHEV),R1,2030,fixed,1529.984433,1,85.2744054,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Plugin Hybrid EV (PHEV),R1,2040,fixed,1529.984433,1,85.2744054,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Plugin Hybrid EV (PHEV),R1,2050,fixed,1529.984433,1,85.2744054,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,electricity,transport,1
+Cars - Hydrogen fuel cell,R1,2020,fixed,1529.749683,1,127.9116081,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,hydrogen,transport,1
+Cars - Hydrogen fuel cell,R1,2030,fixed,1529.749683,1,127.9116081,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,hydrogen,transport,1
+Cars - Hydrogen fuel cell,R1,2040,fixed,1529.749683,1,127.9116081,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,hydrogen,transport,1
+Cars - Hydrogen fuel cell,R1,2050,fixed,1529.749683,1,127.9116081,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,hydrogen,transport,1
+Cars - Gasoline hybrid,R1,2020,fixed,1529.984433,1,85.2744054,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Gasoline hybrid,R1,2030,fixed,1529.984433,1,85.2744054,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Gasoline hybrid,R1,2040,fixed,1529.984433,1,85.2744054,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - Gasoline hybrid,R1,2050,fixed,1529.984433,1,85.2744054,1,0,1,0,0,0,15,0.82,1,100,0.1,energy,gasoline,transport,1
+Cars - LPG,R1,2020,fixed,2049.956127,1,114.2660544,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,LPG,transport,1
+Cars - LPG,R1,2030,fixed,2102.774923,1,117.2037709,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,LPG,transport,1
+Cars - LPG,R1,2040,fixed,2156.767469,1,120.2170145,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,LPG,transport,1
+Cars - LPG,R1,2050,fixed,2211.933766,1,123.3077269,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,LPG,transport,1
+Cars - Natural gas,R1,2020,fixed,1900.302875,1,105.9215945,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gas,transport,1
+Cars - Natural gas,R1,2030,fixed,1906.171629,1,106.2691399,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gas,transport,1
+Cars - Natural gas,R1,2040,fixed,1912.62726,1,106.6178257,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gas,transport,1
+Cars - Natural gas,R1,2050,fixed,1919.082891,1,106.9676555,1,0,1,100000000,20,100000000,15,0.82,1,100,0.1,energy,gas,transport,1

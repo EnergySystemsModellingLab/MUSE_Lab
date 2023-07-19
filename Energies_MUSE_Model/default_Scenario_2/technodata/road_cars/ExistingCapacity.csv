@@ -1,0 +1,13 @@
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+Cars - Battery Electric (BEV),R1,Bv-km,5.8353,3.8902,1.9451,0,0,0,0
+Cars - Conventional Diesel,R1,Bv-km,60.732425,30.3662125,0,0,0,0,0
+Cars - Conventional Diesel_High Efficiency,R1,Bv-km,60.732425,40.48828333,20.24414167,0,0,0,0
+Cars - Conventional Diesel_Medium Efficiency,R1,Bv-km,60.732425,30.3662125,0,0,0,0,0
+Cars - Conventional Gasoline,R1,Bv-km,95.426245,47.7131225,0,0,0,0,0
+Cars - Conventional Gasoline_High Efficiency,R1,Bv-km,95.426245,63.61749667,31.80874833,0,0,0,0
+Cars - Conventional Gasoline_Medium Efficiency,R1,Bv-km,95.426245,47.7131225,0,0,0,0,0
+Cars - Gasoline hybrid,R1,Bv-km,13.985025,9.32335,4.661675,0,0,0,0
+Cars - Hydrogen fuel cell,R1,Bv-km,0.003,0.003,0.002,0,0,0,0
+Cars - LPG,R1,Bv-km,0.0045,0,0,0,0,0,0
+Cars - Natural gas,R1,Bv-km,0.363,0.1815,0,0,0,0,0
+Cars - Plugin Hybrid EV (PHEV),R1,Bv-km,4.674855,3.11657,0,0,0,0,0

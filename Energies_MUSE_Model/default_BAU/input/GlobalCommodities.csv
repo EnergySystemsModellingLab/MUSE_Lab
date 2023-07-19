@@ -1,0 +1,9 @@
+Commodity,CommodityType,CommodityName,CommodityEmissionFactor_CO2,HeatRate,Unit
+Electricity,Energy,electricity,0,0,PJ/(Bv-km)
+Gas,Energy,gas,56.1,0,PJ/(Bv-km)
+CO2fuelcomsbustion,Environmental,CO2f,0,0,kt/PJ
+Transport,Service,transport,0,0,Bv-km
+Diesel,Energy,diesel,74.1,0,PJ/(Bv-km)
+Gasoline,Energy,gasoline,70,0,PJ/(Bv-km)
+LPG,Energy,LPG,63.1,0,PJ/(Bv-km)
+Hydrogen,Energy,hydrogen,0,0,PJ/(Bv-km)
