@@ -1,0 +1,589 @@
+,region,installed,technology,year,agent,category,sector,capital_costs
+0,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+1,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+2,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+3,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+4,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+5,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+6,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+7,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+8,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+9,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+10,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+11,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+12,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+13,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+14,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+15,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+16,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+17,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+18,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+19,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+20,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+21,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+22,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+23,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+24,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+25,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+26,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+27,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+28,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+29,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+30,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+31,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+32,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+33,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+34,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+35,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+36,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+37,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+38,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+39,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+40,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+41,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+42,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+43,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+44,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+45,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+46,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+47,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+48,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+49,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+50,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+51,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+52,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+53,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+54,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+55,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+56,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+57,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+58,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+59,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+60,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+61,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+62,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+63,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+64,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+65,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+66,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+67,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+68,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+69,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+70,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+71,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+72,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+73,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+74,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+75,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+76,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+77,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+78,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+79,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+80,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+81,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+82,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+83,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+84,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+85,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+86,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+87,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+88,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+89,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+90,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+91,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+92,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+93,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+94,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+95,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+96,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+97,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+98,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+99,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+100,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+101,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+102,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+103,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+104,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+105,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+106,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+107,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+108,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+109,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+110,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+111,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+112,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+113,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+114,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+115,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+116,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+117,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+118,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+119,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+120,R1,2020,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,0.88556575118
+121,R1,2020,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,730.95490943848
+122,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,2787.59199035696
+123,R1,2020,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,922.05879075419
+124,R1,2020,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,3.55897325485
+125,R1,2020,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1.02623833345
+126,R1,2020,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,74.38513750504
+127,R1,2020,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,60.79905682366
+128,R1,2020,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,11000.61559695967
+129,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10322.53182808272
+130,R1,2020,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,11613.67567006963
+131,R1,2020,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,772.53686455434
+132,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,305.56321168586
+133,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,409.22476720016
+134,R1,2020,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,15.30869565406
+135,R1,2020,Light Trucks - LPG,2020,A1,retrofit,road_truck,468.18947428063
+136,R1,2020,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,792.09340935856
+137,R1,2020,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,22.05555793385
+138,R1,2020,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,3687.49873717004
+139,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,3290.70084325545
+140,R1,2020,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,3811.67854239977
+141,R1,2020,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,469.88083589198
+142,R1,2020,Medium trucks - LPG,2020,A1,retrofit,road_truck,146.87160988725
+143,R1,2020,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,260.95429389722
+144,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+145,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+146,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+147,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+148,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+149,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+150,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+151,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+152,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+153,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+154,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+155,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+156,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+157,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+158,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+159,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+160,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+161,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+162,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+163,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+164,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+165,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+166,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+167,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+168,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+169,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+170,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+171,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+172,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+173,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+174,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+175,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+176,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+177,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+178,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+179,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+180,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+181,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+182,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+183,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+184,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+185,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+186,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+187,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+188,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+189,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+190,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+191,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+192,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+193,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+194,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+195,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+196,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+197,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+198,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+199,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+200,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+201,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+202,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+203,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+204,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+205,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+206,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+207,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+208,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+209,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+210,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+211,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+212,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+213,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+214,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+215,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+216,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+217,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+218,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+219,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+220,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+221,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+222,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+223,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+224,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+225,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+226,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+227,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+228,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+229,R1,2020,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,0.46386777443
+230,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,6214.03503922697
+231,R1,2020,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,0.29464688706
+232,R1,2020,Heavy trucks - LPG,2025,A1,retrofit,road_truck,306.80175897838
+233,R1,2020,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,75.22924321213
+234,R1,2020,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,40.24607356617
+235,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,35457.09950135658
+236,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,282.21475773411
+237,R1,2020,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,0.00000000000
+238,R1,2020,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,15.28174750287
+239,R1,2020,Light Trucks - LPG,2025,A1,retrofit,road_truck,224.43086872813
+240,R1,2020,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,729.86750171000
+241,R1,2020,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,15.42908808350
+242,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,3056.01938424279
+243,R1,2020,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,93.98137995189
+244,R1,2020,Medium trucks - LPG,2025,A1,retrofit,road_truck,68.43047247184
+245,R1,2020,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,13556.95425784158
+246,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+247,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+248,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+249,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+250,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+251,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+252,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+253,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+254,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+255,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+256,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+257,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+258,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+259,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+260,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+261,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+262,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+263,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+264,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+265,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+266,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+267,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+268,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+269,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+270,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+271,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+272,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+273,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+274,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+275,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+276,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+277,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+278,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+279,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+280,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+281,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+282,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+283,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+284,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+285,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+286,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+287,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+288,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+289,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+290,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+291,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+292,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+293,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+294,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+295,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+296,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+297,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+298,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+299,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+300,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+301,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+302,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+303,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+304,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+305,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+306,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+307,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+308,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+309,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+310,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+311,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+312,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+313,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+314,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+315,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+316,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+317,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+318,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+319,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+320,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+321,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+322,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+323,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+324,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+325,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+326,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+327,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+328,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+329,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+330,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+331,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+332,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+333,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+334,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+335,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+336,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+337,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+338,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+339,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+340,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+341,R1,2020,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,0.25301878605
+342,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,6033.73465108772
+343,R1,2020,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,0.11473405364
+344,R1,2020,Heavy trucks - LPG,2030,A1,retrofit,road_truck,313.95917257922
+345,R1,2020,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,64.09576603726
+346,R1,2020,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,22.97553151691
+347,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,34419.53411276810
+348,R1,2020,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,258.61748335644
+349,R1,2020,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,12.78464999394
+350,R1,2020,Light Trucks - LPG,2030,A1,retrofit,road_truck,117.40990169264
+351,R1,2020,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,689.86756591808
+352,R1,2020,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9.99851959668
+353,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,2753.62105081434
+354,R1,2020,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,86.35322740891
+355,R1,2020,Medium trucks - LPG,2030,A1,retrofit,road_truck,35.84942892841
+356,R1,2020,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,13654.89989929659
+357,R1,2025,Heavy trucks - LPG,2030,A1,retrofit,road_truck,593.13321885241
+358,R1,2025,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,2641.12530948926
+359,R1,2025,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,1254.20762987020
+360,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+361,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+362,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+363,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+364,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+365,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+366,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+367,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+368,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+369,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+370,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+371,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+372,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+373,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+374,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+375,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+376,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+377,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+378,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+379,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+380,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+381,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+382,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+383,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+384,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+385,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+386,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+387,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+388,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+389,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+390,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+391,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+392,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+393,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+394,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+395,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+396,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+397,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+398,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+399,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+400,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+401,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+402,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+403,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+404,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+405,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+406,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+407,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+408,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+409,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+410,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+411,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+412,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+413,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+414,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+415,R1,2020,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,3607.79414845640
+416,R1,2020,Heavy trucks - LPG,2035,A1,retrofit,road_truck,317.59142705645
+417,R1,2020,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,26005.54374571765
+418,R1,2020,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,0.00000000000
+419,R1,2020,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,13567.25922851353
+420,R1,2025,Heavy trucks - LPG,2035,A1,retrofit,road_truck,600.29677914322
+421,R1,2025,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,2554.27471056355
+422,R1,2025,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,1254.20762987020
+423,R1,2030,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,3559.20154893876
+424,R1,2030,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,10192.96720665873
+425,R1,2030,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4245.51447622456
+426,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+427,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+428,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+429,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+430,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+431,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+432,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+433,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+434,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+435,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+436,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+437,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+438,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+439,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+440,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+441,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+442,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+443,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+444,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+445,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+446,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+447,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+448,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+449,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+450,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+451,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+452,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+453,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+454,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+455,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+456,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+457,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+458,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+459,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+460,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+461,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+462,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+463,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+464,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+465,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+466,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+467,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+468,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+469,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+470,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+471,R1,2025,Heavy trucks - LPG,2040,A1,retrofit,road_truck,607.46033943402
+472,R1,2025,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,2467.42411163783
+473,R1,2025,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,1254.20762987020
+474,R1,2030,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,3559.20154893876
+475,R1,2030,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,9846.38533624856
+476,R1,2030,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4245.51447622456
+477,R1,2035,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,5750.94787125687
+478,R1,2035,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,25989.16336659426
+479,R1,2035,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,14981.51819040274
+480,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+481,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+482,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+483,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+484,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+485,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+486,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+487,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+488,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+489,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+490,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+491,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+492,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+493,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+494,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+495,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+496,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+497,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+498,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+499,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+500,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+501,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+502,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+503,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+504,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+505,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+506,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+507,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+508,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+509,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+510,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+511,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+512,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+513,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+514,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+515,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+516,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+517,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+518,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+519,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+520,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+521,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+522,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+523,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+524,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+525,R1,2030,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,3559.20154893876
+526,R1,2030,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,9802.96334027820
+527,R1,2030,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4245.51447622456
+528,R1,2035,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,5750.94787125687
+529,R1,2035,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,25874.55264312169
+530,R1,2035,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,14981.51819040274
+531,R1,2040,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1412.67433599237
+532,R1,2040,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5174.15523530848
+533,R1,2040,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,2713.79706612513
+534,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+535,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+536,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+537,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+538,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+539,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+540,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+541,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+542,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103
+543,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+544,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+545,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+546,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+547,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+548,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+549,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+550,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+551,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103
+552,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+553,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+554,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+555,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+556,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+557,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+558,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+559,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+560,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103
+561,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+562,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+563,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+564,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+565,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+566,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+567,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+568,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+569,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103
+570,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+571,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+572,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+573,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+574,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+575,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+576,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+577,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+578,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103
+579,R1,2035,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,5750.94787125687
+580,R1,2035,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,25759.94191964910
+581,R1,2035,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,14981.51819040274
+582,R1,2040,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1412.67433599237
+583,R1,2040,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,5151.23643616798
+584,R1,2040,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,2713.79706612513
+585,R1,2045,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,3513.39080326294
+586,R1,2045,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,9586.36475541161
+587,R1,2045,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4152.09005828103

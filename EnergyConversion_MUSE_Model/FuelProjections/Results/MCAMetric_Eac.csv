@@ -1,0 +1,1135 @@
+,timeslice,region,technology,year,agent,category,sector,EAC
+0,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+1,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+2,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+3,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+4,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+5,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+6,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+7,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+8,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+9,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+10,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+11,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+12,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+13,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+14,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+15,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+16,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+17,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+18,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+19,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+20,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+21,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+22,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+23,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+24,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+25,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+26,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+27,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+28,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+29,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+30,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+31,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+32,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+33,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+34,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+35,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+36,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+37,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+38,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+39,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+40,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+41,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+42,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+43,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+44,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+45,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+46,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+47,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+48,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+49,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+50,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+51,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+52,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+53,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+54,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+55,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+56,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+57,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+58,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+59,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+60,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+61,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+62,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+63,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+64,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+65,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+66,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+67,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+68,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+69,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+70,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+71,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+72,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+73,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+74,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+75,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+76,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+77,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+78,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+79,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+80,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+81,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+82,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+83,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+84,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+85,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+86,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+87,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+88,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+89,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+90,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+91,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+92,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+93,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+94,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+95,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+96,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+97,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+98,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+99,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+100,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+101,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+102,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+103,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+104,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+105,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+106,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+107,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+108,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+109,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+110,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+111,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+112,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+113,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+114,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+115,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+116,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+117,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+118,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+119,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+120,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+121,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+122,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+123,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+124,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+125,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+126,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+127,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+128,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+129,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+130,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+131,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+132,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+133,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+134,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+135,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2020,A1,retrofit,road_truck,2291.04090987762
+136,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2020,A1,retrofit,road_truck,1576.16066472292
+137,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2020,A1,retrofit,road_truck,1491.37243409239
+138,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,A1,retrofit,road_truck,1516.68558155901
+139,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2020,A1,retrofit,road_truck,1529.42006976259
+140,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2020,A1,retrofit,road_truck,2455.80216560322
+141,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2020,A1,retrofit,road_truck,1458.39180035310
+142,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2020,A1,retrofit,road_truck,1630.10025852175
+143,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,11239.35475569525
+144,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2020,A1,retrofit,road_truck,10022.61042186098
+145,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2020,A1,retrofit,road_truck,10044.07733487539
+146,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,10026.02409005781
+147,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,10083.97600895506
+148,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,A1,retrofit,road_truck,10144.91484390242
+149,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,A1,retrofit,road_truck,10112.37478164384
+150,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2020,A1,retrofit,road_truck,10194.48618093564
+151,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2020,A1,retrofit,road_truck,11294.56418951357
+152,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2020,A1,retrofit,road_truck,10356.23026847666
+153,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2020,A1,retrofit,road_truck,15268.45700640025
+154,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2020,A1,retrofit,road_truck,6846.19727397539
+155,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2020,A1,retrofit,road_truck,5213.59073663391
+156,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2020,A1,retrofit,road_truck,4963.82692331455
+157,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2020,A1,retrofit,road_truck,4201.18800180131
+158,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,A1,retrofit,road_truck,4221.91022263545
+159,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2020,A1,retrofit,road_truck,4278.37241822568
+160,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2020,A1,retrofit,road_truck,4053.64341221139
+161,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2020,A1,retrofit,road_truck,3880.84424665243
+162,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+163,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+164,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+165,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+166,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+167,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+168,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+169,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+170,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+171,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+172,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+173,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+174,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+175,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+176,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+177,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+178,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+179,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+180,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+181,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+182,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+183,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+184,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+185,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+186,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+187,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+188,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+189,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+190,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+191,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+192,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+193,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+194,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+195,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+196,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+197,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+198,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+199,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+200,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+201,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+202,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+203,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+204,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+205,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+206,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+207,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+208,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+209,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+210,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+211,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+212,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+213,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+214,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+215,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+216,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+217,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+218,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+219,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+220,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+221,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+222,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+223,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+224,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+225,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+226,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+227,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+228,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+229,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+230,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+231,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+232,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+233,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+234,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+235,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+236,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+237,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+238,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+239,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+240,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+241,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+242,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+243,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+244,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+245,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+246,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+247,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+248,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+249,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+250,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+251,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+252,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+253,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+254,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+255,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+256,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+257,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+258,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+259,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+260,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+261,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+262,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+263,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+264,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+265,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+266,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+267,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+268,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+269,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+270,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+271,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+272,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+273,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+274,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+275,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+276,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+277,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+278,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+279,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+280,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+281,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+282,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+283,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+284,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+285,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+286,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+287,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+288,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+289,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+290,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+291,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+292,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+293,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+294,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+295,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+296,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+297,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2025,A1,retrofit,road_truck,2038.45812338012
+298,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2025,A1,retrofit,road_truck,1676.05491456972
+299,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2025,A1,retrofit,road_truck,1586.20918184200
+300,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2025,A1,retrofit,road_truck,1607.48064852982
+301,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2025,A1,retrofit,road_truck,1609.30212325235
+302,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2025,A1,retrofit,road_truck,2192.18359619135
+303,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2025,A1,retrofit,road_truck,1539.23391543943
+304,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2025,A1,retrofit,road_truck,1562.02098993518
+305,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,9215.63889857797
+306,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2025,A1,retrofit,road_truck,10433.25044343640
+307,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2025,A1,retrofit,road_truck,10439.24161014768
+308,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,10424.09514992900
+309,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,10555.14433372772
+310,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2025,A1,retrofit,road_truck,10615.56740874304
+311,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2025,A1,retrofit,road_truck,10591.13776393733
+312,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2025,A1,retrofit,road_truck,10569.90360988608
+313,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2025,A1,retrofit,road_truck,11745.88536782902
+314,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2025,A1,retrofit,road_truck,10541.67208075400
+315,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2025,A1,retrofit,road_truck,12847.39655299174
+316,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2025,A1,retrofit,road_truck,5834.94712960240
+317,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2025,A1,retrofit,road_truck,4692.24386886334
+318,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2025,A1,retrofit,road_truck,5408.29138760425
+319,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2025,A1,retrofit,road_truck,4518.79916817454
+320,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2025,A1,retrofit,road_truck,4528.95881919350
+321,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2025,A1,retrofit,road_truck,4557.18737165459
+322,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2025,A1,retrofit,road_truck,4310.67610057693
+323,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2025,A1,retrofit,road_truck,3926.77489249965
+324,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+325,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+326,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+327,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+328,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+329,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+330,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+331,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+332,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+333,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+334,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+335,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+336,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+337,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+338,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+339,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+340,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+341,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+342,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+343,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+344,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+345,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+346,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+347,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+348,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+349,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+350,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+351,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+352,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+353,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+354,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+355,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+356,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+357,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+358,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+359,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+360,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+361,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+362,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+363,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+364,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+365,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+366,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+367,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+368,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+369,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+370,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+371,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+372,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+373,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+374,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+375,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+376,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+377,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+378,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+379,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+380,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+381,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+382,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+383,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+384,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+385,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+386,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+387,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+388,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+389,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+390,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+391,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+392,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+393,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+394,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+395,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+396,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+397,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+398,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+399,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+400,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+401,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+402,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+403,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+404,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+405,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+406,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+407,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+408,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+409,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+410,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+411,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+412,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+413,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+414,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+415,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+416,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+417,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+418,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+419,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+420,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+421,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+422,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+423,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+424,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+425,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+426,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+427,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+428,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+429,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+430,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+431,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+432,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+433,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+434,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+435,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+436,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+437,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+438,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+439,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+440,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+441,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+442,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+443,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+444,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+445,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+446,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+447,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+448,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+449,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+450,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+451,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+452,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+453,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+454,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+455,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+456,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+457,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+458,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+459,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2030,A1,retrofit,road_truck,1974.97027508697
+460,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2030,A1,retrofit,road_truck,1789.58301844605
+461,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2030,A1,retrofit,road_truck,1690.73506580514
+462,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2030,A1,retrofit,road_truck,1715.46494826624
+463,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2030,A1,retrofit,road_truck,1747.54220745719
+464,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2030,A1,retrofit,road_truck,1991.92083027638
+465,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2030,A1,retrofit,road_truck,1651.52978304127
+466,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2030,A1,retrofit,road_truck,1635.65885637163
+467,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,9277.51629902336
+468,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2030,A1,retrofit,road_truck,10965.93219143001
+469,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2030,A1,retrofit,road_truck,10966.31587930740
+470,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,10951.32126518329
+471,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,11285.13262867845
+472,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2030,A1,retrofit,road_truck,11320.90359537359
+473,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2030,A1,retrofit,road_truck,11286.70567311033
+474,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2030,A1,retrofit,road_truck,11133.29208227455
+475,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2030,A1,retrofit,road_truck,12392.45472565087
+476,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2030,A1,retrofit,road_truck,11000.45195578154
+477,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2030,A1,retrofit,road_truck,11515.24370047177
+478,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2030,A1,retrofit,road_truck,5145.51329640998
+479,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2030,A1,retrofit,road_truck,4716.04725356355
+480,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2030,A1,retrofit,road_truck,5779.02946218623
+481,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2030,A1,retrofit,road_truck,4776.47560823740
+482,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2030,A1,retrofit,road_truck,4794.57156844963
+483,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2030,A1,retrofit,road_truck,4865.41611936037
+484,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2030,A1,retrofit,road_truck,4567.79253312805
+485,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2030,A1,retrofit,road_truck,4065.90476490362
+486,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+487,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+488,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+489,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+490,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+491,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+492,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+493,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+494,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+495,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+496,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+497,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+498,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+499,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+500,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+501,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+502,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+503,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+504,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+505,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+506,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+507,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+508,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+509,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+510,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+511,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+512,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+513,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+514,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+515,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+516,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+517,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+518,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+519,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+520,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+521,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+522,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+523,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+524,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+525,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+526,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+527,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+528,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+529,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+530,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+531,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+532,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+533,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+534,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+535,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+536,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+537,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+538,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+539,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+540,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+541,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+542,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+543,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+544,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+545,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+546,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+547,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+548,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+549,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+550,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+551,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+552,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+553,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+554,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+555,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+556,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+557,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+558,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+559,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+560,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+561,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+562,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+563,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+564,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+565,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+566,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+567,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+568,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+569,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+570,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+571,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+572,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+573,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+574,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+575,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+576,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+577,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+578,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+579,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+580,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+581,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+582,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+583,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+584,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+585,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+586,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+587,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+588,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+589,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+590,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+591,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+592,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+593,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+594,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+595,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+596,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+597,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+598,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+599,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+600,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+601,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+602,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+603,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+604,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+605,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+606,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+607,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+608,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+609,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+610,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+611,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+612,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+613,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+614,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+615,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+616,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+617,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+618,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+619,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+620,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+621,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2035,A1,retrofit,road_truck,1911.29871981219
+622,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2035,A1,retrofit,road_truck,1888.51230726930
+623,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2035,A1,retrofit,road_truck,1789.85199615166
+624,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2035,A1,retrofit,road_truck,1814.30879404566
+625,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2035,A1,retrofit,road_truck,1874.86147990768
+626,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2035,A1,retrofit,road_truck,1829.38606691856
+627,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2035,A1,retrofit,road_truck,1767.16333211935
+628,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2035,A1,retrofit,road_truck,1719.01896037525
+629,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,9378.02185634303
+630,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2035,A1,retrofit,road_truck,11506.30310619770
+631,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2035,A1,retrofit,road_truck,11511.99203012261
+632,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,11492.07838276519
+633,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,11997.69066837246
+634,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2035,A1,retrofit,road_truck,12025.14933719314
+635,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2035,A1,retrofit,road_truck,11968.35113903125
+636,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2035,A1,retrofit,road_truck,11709.35846626641
+637,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2035,A1,retrofit,road_truck,13069.02819619974
+638,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2035,A1,retrofit,road_truck,11522.10283430766
+639,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2035,A1,retrofit,road_truck,10079.77903638159
+640,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2035,A1,retrofit,road_truck,4484.20664070427
+641,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2035,A1,retrofit,road_truck,4683.28959611306
+642,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2035,A1,retrofit,road_truck,5995.25847182040
+643,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2035,A1,retrofit,road_truck,4937.03778137771
+644,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2035,A1,retrofit,road_truck,4956.85966659186
+645,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2035,A1,retrofit,road_truck,5054.11790958313
+646,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2035,A1,retrofit,road_truck,4752.36218086057
+647,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2035,A1,retrofit,road_truck,4161.01385311115
+648,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+649,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+650,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+651,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+652,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+653,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+654,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+655,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+656,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+657,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+658,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+659,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+660,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+661,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+662,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+663,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+664,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+665,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+666,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+667,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+668,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+669,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+670,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+671,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+672,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+673,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+674,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+675,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+676,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+677,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+678,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+679,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+680,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+681,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+682,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+683,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+684,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+685,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+686,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+687,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+688,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+689,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+690,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+691,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+692,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+693,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+694,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+695,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+696,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+697,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+698,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+699,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+700,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+701,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+702,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+703,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+704,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+705,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+706,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+707,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+708,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+709,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+710,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+711,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+712,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+713,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+714,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+715,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+716,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+717,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+718,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+719,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+720,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+721,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+722,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+723,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+724,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+725,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+726,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+727,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+728,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+729,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+730,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+731,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+732,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+733,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+734,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+735,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+736,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+737,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+738,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+739,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+740,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+741,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+742,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+743,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+744,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+745,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+746,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+747,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+748,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+749,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+750,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+751,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+752,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+753,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+754,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+755,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+756,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+757,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+758,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+759,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+760,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+761,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+762,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+763,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+764,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+765,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+766,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+767,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+768,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+769,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+770,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+771,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+772,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+773,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+774,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+775,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+776,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+777,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+778,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+779,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+780,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+781,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+782,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+783,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2040,A1,retrofit,road_truck,2031.44389588376
+784,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2040,A1,retrofit,road_truck,2033.12662125277
+785,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2040,A1,retrofit,road_truck,1930.78578927729
+786,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2040,A1,retrofit,road_truck,1955.89096737116
+787,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2040,A1,retrofit,road_truck,2037.86143034785
+788,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2040,A1,retrofit,road_truck,1937.30235825252
+789,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2040,A1,retrofit,road_truck,1925.71080264437
+790,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2040,A1,retrofit,road_truck,1843.73968233591
+791,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,10049.89994000221
+792,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2040,A1,retrofit,road_truck,12399.65118417810
+793,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2040,A1,retrofit,road_truck,12407.53733170574
+794,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,12383.13789931529
+795,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,13050.32911325227
+796,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2040,A1,retrofit,road_truck,13083.55372806892
+797,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2040,A1,retrofit,road_truck,13020.52272962032
+798,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2040,A1,retrofit,road_truck,12606.78768515862
+799,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2040,A1,retrofit,road_truck,14165.13270948893
+800,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2040,A1,retrofit,road_truck,12384.80388195809
+801,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2040,A1,retrofit,road_truck,10576.05840866398
+802,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2040,A1,retrofit,road_truck,4737.55356078266
+803,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2040,A1,retrofit,road_truck,4979.24409935990
+804,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2040,A1,retrofit,road_truck,6480.63055152595
+805,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2040,A1,retrofit,road_truck,5330.05902550981
+806,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2040,A1,retrofit,road_truck,5351.26760533026
+807,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2040,A1,retrofit,road_truck,5448.22371292324
+808,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2040,A1,retrofit,road_truck,5168.33891365774
+809,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2040,A1,retrofit,road_truck,4464.08477397614
+810,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+811,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+812,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+813,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+814,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+815,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+816,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+817,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+818,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+819,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+820,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+821,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+822,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+823,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+824,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+825,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+826,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+827,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+828,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+829,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+830,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+831,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+832,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+833,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+834,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+835,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+836,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+837,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+838,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+839,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+840,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+841,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+842,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+843,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+844,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+845,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+846,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+847,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+848,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+849,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+850,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+851,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+852,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+853,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+854,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+855,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+856,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+857,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+858,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+859,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+860,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+861,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+862,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+863,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+864,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+865,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+866,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+867,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+868,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+869,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+870,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+871,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+872,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+873,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+874,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+875,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+876,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+877,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+878,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+879,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+880,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+881,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+882,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+883,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+884,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+885,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+886,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+887,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+888,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+889,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+890,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+891,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+892,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+893,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+894,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+895,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+896,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+897,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+898,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+899,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+900,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+901,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+902,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+903,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+904,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+905,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+906,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+907,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+908,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+909,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+910,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+911,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+912,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+913,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+914,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+915,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+916,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+917,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+918,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+919,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+920,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+921,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+922,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+923,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+924,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+925,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+926,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+927,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+928,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+929,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+930,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+931,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+932,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+933,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+934,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+935,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+936,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+937,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+938,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+939,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+940,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+941,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+942,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+943,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+944,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+945,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2045,A1,retrofit,road_truck,2150.00220774704
+946,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2045,A1,retrofit,road_truck,2190.76449530079
+947,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2045,A1,retrofit,road_truck,2082.54462824261
+948,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2045,A1,retrofit,road_truck,2109.27311163748
+949,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2045,A1,retrofit,road_truck,2214.34019853155
+950,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2045,A1,retrofit,road_truck,2035.69275537983
+951,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2045,A1,retrofit,road_truck,2089.69459262948
+952,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2045,A1,retrofit,road_truck,1972.81039285879
+953,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,10739.52366310393
+954,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2045,A1,retrofit,road_truck,13352.06066634980
+955,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2045,A1,retrofit,road_truck,13358.45963866317
+956,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,13330.91524777123
+957,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,14179.29186984434
+958,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2045,A1,retrofit,road_truck,14215.08765294570
+959,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2045,A1,retrofit,road_truck,14146.87717735574
+960,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2045,A1,retrofit,road_truck,13549.75401794423
+961,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2045,A1,retrofit,road_truck,15311.57854652885
+962,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2045,A1,retrofit,road_truck,13279.20095159795
+963,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2045,A1,retrofit,road_truck,11058.38058021290
+964,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2045,A1,retrofit,road_truck,4969.07633797339
+965,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2045,A1,retrofit,road_truck,5278.01485356934
+966,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2045,A1,retrofit,road_truck,7034.71831971877
+967,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2045,A1,retrofit,road_truck,5764.38390700794
+968,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2045,A1,retrofit,road_truck,5789.24202929147
+969,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2045,A1,retrofit,road_truck,5876.05894375327
+970,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2045,A1,retrofit,road_truck,5604.78662831957
+971,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2045,A1,retrofit,road_truck,4780.13352244241
+972,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+973,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+974,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+975,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+976,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+977,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+978,"('all-year', 'all-week', 'night')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+979,"('all-year', 'all-week', 'night')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+980,"('all-year', 'all-week', 'night')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+981,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+982,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+983,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+984,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+985,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+986,"('all-year', 'all-week', 'night')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+987,"('all-year', 'all-week', 'night')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+988,"('all-year', 'all-week', 'night')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+989,"('all-year', 'all-week', 'night')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+990,"('all-year', 'all-week', 'night')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+991,"('all-year', 'all-week', 'night')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+992,"('all-year', 'all-week', 'night')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+993,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+994,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+995,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+996,"('all-year', 'all-week', 'night')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+997,"('all-year', 'all-week', 'night')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+998,"('all-year', 'all-week', 'night')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083
+999,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+1000,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+1001,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+1002,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+1003,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+1004,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+1005,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+1006,"('all-year', 'all-week', 'morning')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+1007,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+1008,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+1009,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+1010,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+1011,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+1012,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+1013,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+1014,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+1015,"('all-year', 'all-week', 'morning')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+1016,"('all-year', 'all-week', 'morning')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+1017,"('all-year', 'all-week', 'morning')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+1018,"('all-year', 'all-week', 'morning')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+1019,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+1020,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+1021,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+1022,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+1023,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+1024,"('all-year', 'all-week', 'morning')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+1025,"('all-year', 'all-week', 'morning')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083
+1026,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+1027,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+1028,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+1029,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+1030,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+1031,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+1032,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+1033,"('all-year', 'all-week', 'afternoon')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+1034,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+1035,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+1036,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+1037,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+1038,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+1039,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+1040,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+1041,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+1042,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+1043,"('all-year', 'all-week', 'afternoon')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+1044,"('all-year', 'all-week', 'afternoon')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+1045,"('all-year', 'all-week', 'afternoon')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+1046,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+1047,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+1048,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+1049,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+1050,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+1051,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+1052,"('all-year', 'all-week', 'afternoon')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083
+1053,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+1054,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+1055,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+1056,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+1057,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+1058,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+1059,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+1060,"('all-year', 'all-week', 'early-peak')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+1061,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+1062,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+1063,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+1064,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+1065,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+1066,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+1067,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+1068,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+1069,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+1070,"('all-year', 'all-week', 'early-peak')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+1071,"('all-year', 'all-week', 'early-peak')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+1072,"('all-year', 'all-week', 'early-peak')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+1073,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+1074,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+1075,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+1076,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+1077,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+1078,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+1079,"('all-year', 'all-week', 'early-peak')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083
+1080,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+1081,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+1082,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+1083,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+1084,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+1085,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+1086,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+1087,"('all-year', 'all-week', 'late-peak')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+1088,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+1089,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+1090,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+1091,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+1092,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+1093,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+1094,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+1095,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+1096,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+1097,"('all-year', 'all-week', 'late-peak')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+1098,"('all-year', 'all-week', 'late-peak')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+1099,"('all-year', 'all-week', 'late-peak')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+1100,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+1101,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+1102,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+1103,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+1104,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+1105,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+1106,"('all-year', 'all-week', 'late-peak')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083
+1107,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Battery Electric,2050,A1,retrofit,road_truck,1990.20372118112
+1108,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel,2050,A1,retrofit,road_truck,1499.03683636925
+1109,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_High Efficiency,2050,A1,retrofit,road_truck,1576.21346605795
+1110,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional diesel_Medium Efficiency,2050,A1,retrofit,road_truck,1524.37084513667
+1111,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Conventional gasoline,2050,A1,retrofit,road_truck,1524.52588597664
+1112,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Hydrogen,2050,A1,retrofit,road_truck,1911.91657386280
+1113,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - LPG,2050,A1,retrofit,road_truck,1751.42316564289
+1114,"('all-year', 'all-week', 'evening')",R1,Heavy trucks - Natural gas,2050,A1,retrofit,road_truck,1900.15513350828
+1115,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,10350.44031826238
+1116,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel,2050,A1,retrofit,road_truck,11776.29488674351
+1117,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_High Efficiency,2050,A1,retrofit,road_truck,12033.15787577815
+1118,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,11891.11264486050
+1119,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,11931.54883059405
+1120,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_High_Efficiency,2050,A1,retrofit,road_truck,12336.68242491586
+1121,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2050,A1,retrofit,road_truck,12126.24473046981
+1122,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Gasoline hybrid,2050,A1,retrofit,road_truck,12244.79360022423
+1123,"('all-year', 'all-week', 'evening')",R1,Light Trucks - LPG,2050,A1,retrofit,road_truck,14137.64552254718
+1124,"('all-year', 'all-week', 'evening')",R1,Light Trucks - Natural gas,2050,A1,retrofit,road_truck,13212.88460055013
+1125,"('all-year', 'all-week', 'evening')",R1,Light truck - Hydrogen,2050,A1,retrofit,road_truck,10589.44558614813
+1126,"('all-year', 'all-week', 'evening')",R1,Medium Trucks - Hydrogen,2050,A1,retrofit,road_truck,4580.48701391837
+1127,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Battery Electric (BEV),2050,A1,retrofit,road_truck,4783.59858167087
+1128,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel,2050,A1,retrofit,road_truck,3986.94179422637
+1129,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_High Efficency,2050,A1,retrofit,road_truck,4178.18407405420
+1130,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Diesel_Medium Efficiency,2050,A1,retrofit,road_truck,4053.79143083863
+1131,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Conventional Gasoline,2050,A1,retrofit,road_truck,4043.44405781066
+1132,"('all-year', 'all-week', 'evening')",R1,Medium trucks - LPG,2050,A1,retrofit,road_truck,4583.45682915129
+1133,"('all-year', 'all-week', 'evening')",R1,Medium trucks - Natural gas,2050,A1,retrofit,road_truck,4691.05262272083

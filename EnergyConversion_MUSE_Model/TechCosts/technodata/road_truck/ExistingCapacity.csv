@@ -1,0 +1,28 @@
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,btons*km,30.10663219,0,0,0,0,0,0
+Heavy trucks - Conventional diesel_High Efficiency,R1,btons*km,89.26878106,83.82459904,75.78021069,0,0,0,0
+Heavy trucks - Conventional diesel,R1,btons*km,24.34413363,0,0,0,0,0,0
+Heavy trucks - Battery Electric,R1,btons*km,0.015654912,0.008200192,0.004472832,0,0,0,0
+Heavy trucks - Conventional gasoline,R1,btons*km,0.118530048,0.009691136,0.00372736,0,0,0,0
+Heavy trucks - Hydrogen,R1,btons*km,0,0,0,0,0,0,0
+Heavy trucks - LPG,R1,btons*km,0.030564352,0.013418496,0.004472832,0,0,0,0
+Heavy trucks - Natural gas,R1,btons*km,1.832370176,1.83013376,1.540145152,0,0,0,0
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,btons*km,38.86926131,0,0,0,0,0,0
+Medium trucks - Conventional Diesel_High Efficency,R1,btons*km,32.91131648,30.18436557,26.86372864,0,0,0,0
+Medium trucks - Conventional Diesel,R1,btons*km,38.35500749,0,0,0,0,0,0
+Medium trucks - Battery Electric (BEV),R1,btons*km,0.149184,0.104362496,0.06763008,0,0,0,0
+Medium trucks - Conventional Gasoline,R1,btons*km,4.887400448,0.96538624,0.876141056,0,0,0,0
+Medium Trucks - Hydrogen,R1,btons*km,0,0,0,0,0,0,0
+Medium trucks - LPG,R1,btons*km,1.366127616,0.621003264,0.31759616,0,0,0,0
+Medium trucks - Natural gas,R1,btons*km,2.174903808,1.285899776,0.712502784,0,0,0,0
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,btons*km,13.25603635,0,0,0,0,0,0
+Light Trucks - Conventional Diesel_High Efficiency,R1,btons*km,11.55572122,10.61675597,9.42694272,0,0,0,0
+Light Trucks - Conventional Diesel,R1,btons*km,12.80740531,0,0,0,0,0,0
+Light Trucks - Battery Electric (BEV),R1,btons*km,0.054872064,0.040894464,0.0267072,0,0,0,0
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,btons*km,0.489555456,0,0,0,0,0,0
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,btons*km,0.358515456,0.33086976,0.302974464,0,0,0,0
+Light Trucks - Conventional Gasoline,R1,btons*km,0.942669312,0,0,0,0,0,0
+Light truck - Hydrogen,R1,btons*km,0,0,0,0,0,0,0
+Light Trucks - Gasoline hybrid,R1,btons*km,0.015864576,0.01582464,0.0132288,0,0,0,0
+Light Trucks - LPG,R1,btons*km,0.487448832,0.233485824,0.1220544,0,0,0,0
+Light Trucks - Natural gas,R1,btons*km,0.84449664,0.777563904,0.734393088,0,0,0,0
