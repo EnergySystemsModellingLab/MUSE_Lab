@@ -1,0 +1,110 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,MUS$2010 / btons*km,-,MUS$2010 / btons*km,-,MUS$2010 / btons*km,-,btonskm,%,btonskm,Years,-,PJ,%,-,-,-,-,Retrofit
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2020,fixed,183.7586054,1,12.47732928,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2030,fixed,183.7586054,1,12.62776456,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2040,fixed,183.7586054,1,12.62776456,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2050,fixed,183.7586054,1,12.62776456,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_High Efficiency,R1,2020,fixed,187.3617153,1,12.59609398,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_High Efficiency,R1,2030,fixed,192.0770988,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_High Efficiency,R1,2040,fixed,192.0770988,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_High Efficiency,R1,2050,fixed,192.0770988,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel,R1,2020,fixed,180.1554955,1,12.35856458,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel,R1,2030,fixed,180.1554955,1,12.50899986,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel,R1,2040,fixed,180.1554955,1,12.50899986,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel,R1,2050,fixed,180.1554955,1,12.50899986,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Battery Electric,R1,2020,fixed,339.4074976,1,23.83601833,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_heavy,1
+Heavy trucks - Battery Electric,R1,2030,fixed,339.4074976,1,12.62776456,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_heavy,1
+Heavy trucks - Battery Electric,R1,2040,fixed,285.3153411,1,11.19071171,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_heavy,1
+Heavy trucks - Battery Electric,R1,2050,fixed,277.5518504,1,11.19071171,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_heavy,1
+Heavy trucks - Conventional gasoline,R1,2020,fixed,180.1554955,1,12.35856458,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_heavy,1
+Heavy trucks - Conventional gasoline,R1,2030,fixed,184.689518,1,12.50899986,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_heavy,1
+Heavy trucks - Conventional gasoline,R1,2040,fixed,184.689518,1,12.50899986,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_heavy,1
+Heavy trucks - Conventional gasoline,R1,2050,fixed,184.689518,1,12.50899986,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_heavy,1
+Heavy trucks - Hydrogen,R1,2020,fixed,291.4888638,1,26.6395247,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_heavy,1
+Heavy trucks - Hydrogen,R1,2030,fixed,294.553863,1,17.84549364,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_heavy,1
+Heavy trucks - Hydrogen,R1,2040,fixed,267.5077847,1,11.19071171,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_heavy,1
+Heavy trucks - Hydrogen,R1,2050,fixed,263.6260394,1,11.19071171,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_heavy,1
+Heavy trucks - LPG,R1,2020,fixed,201.4578945,1,12.77819985,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_heavy,1
+Heavy trucks - LPG,R1,2030,fixed,211.5167209,1,12.92863513,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_heavy,1
+Heavy trucks - LPG,R1,2040,fixed,216.6259029,1,12.92863513,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_heavy,1
+Heavy trucks - LPG,R1,2050,fixed,221.8584971,1,12.92863513,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_heavy,1
+Heavy trucks - Natural gas,R1,2020,fixed,243.5702299,1,13.73475052,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_heavy,1
+Heavy trucks - Natural gas,R1,2030,fixed,249.7002284,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_heavy,1
+Heavy trucks - Natural gas,R1,2040,fixed,249.7002284,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_heavy,1
+Heavy trucks - Natural gas,R1,2050,fixed,249.7002284,1,12.74652926,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_heavy,1
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,588.3845096,1,66.50225016,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2030,fixed,588.3845096,1,67.50169161,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2040,fixed,588.3845096,1,63.68698472,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2050,fixed,588.3845096,1,63.68698472,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_High Efficency,R1,2020,fixed,599.9214608,1,67.27454582,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_High Efficency,R1,2030,fixed,615.019848,1,68.27398727,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_High Efficency,R1,2040,fixed,615.019848,1,64.38722481,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_High Efficency,R1,2050,fixed,615.019848,1,64.38722481,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel,R1,2020,fixed,576.8475584,1,65.68452534,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel,R1,2030,fixed,576.8475584,1,66.68396679,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel,R1,2040,fixed,576.8475584,1,62.94555404,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel,R1,2050,fixed,576.8475584,1,62.94555404,1,0,1,0,0,0,15,0.4186,1,100,0.1,energy,diesel,transport_medium,1
+Medium trucks - Battery Electric (BEV),R1,2020,fixed,887.0478577,1,95.22767371,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_medium,1
+Medium trucks - Battery Electric (BEV),R1,2030,fixed,887.0478577,1,66.68396679,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_medium,1
+Medium trucks - Battery Electric (BEV),R1,2040,fixed,864.7232821,1,54.94428128,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_medium,1
+Medium trucks - Battery Electric (BEV),R1,2050,fixed,842.3987065,1,54.94428128,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,electricity,transport_medium,1
+Medium trucks - Conventional Gasoline,R1,2020,fixed,576.8475584,1,65.68452534,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_medium,1
+Medium trucks - Conventional Gasoline,R1,2030,fixed,591.3652384,1,66.68396679,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_medium,1
+Medium trucks - Conventional Gasoline,R1,2040,fixed,591.3652384,1,62.94555404,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_medium,1
+Medium trucks - Conventional Gasoline,R1,2050,fixed,591.3652384,1,62.94555404,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gasoline,transport_medium,1
+Medium Trucks - Hydrogen,R1,2020,fixed,803.4768053,1,161.2987033,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_medium,1
+Medium Trucks - Hydrogen,R1,2030,fixed,812.5358376,1,102.4821421,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_medium,1
+Medium Trucks - Hydrogen,R1,2040,fixed,801.3735498,1,54.94428128,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_medium,1
+Medium Trucks - Hydrogen,R1,2050,fixed,790.211262,1,54.94428128,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,hydrogen,transport_medium,1
+Medium trucks - LPG,R1,2020,fixed,645.0566177,1,68.45570389,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_medium,1
+Medium trucks - LPG,R1,2030,fixed,677.2644026,1,69.54600365,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_medium,1
+Medium trucks - LPG,R1,2040,fixed,693.6237102,1,65.54056142,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_medium,1
+Medium trucks - LPG,R1,2050,fixed,710.3781765,1,65.54056142,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,LPG,transport_medium,1
+Medium trucks - Natural gas,R1,2020,fixed,719.9057529,1,68.45570389,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_medium,1
+Medium trucks - Natural gas,R1,2030,fixed,738.0238176,1,69.54600365,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_medium,1
+Medium trucks - Natural gas,R1,2040,fixed,738.0238176,1,65.54056142,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_medium,1
+Medium trucks - Natural gas,R1,2050,fixed,738.0238176,1,65.54056142,1,0,1,1000,20,5000,15,0.4186,1,100,0.1,energy,gas,transport_medium,1
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,5256.628164,1,746.4230084,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2030,fixed,5256.628164,1,746.4230084,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2040,fixed,5256.628164,1,747.2604389,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2050,fixed,5256.628164,1,747.2604389,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_High Efficiency,R1,2020,fixed,5359.699303,1,746.4230084,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_High Efficiency,R1,2030,fixed,5367.834258,1,746.4230084,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_High Efficiency,R1,2040,fixed,5375.981559,1,747.2604389,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_High Efficiency,R1,2050,fixed,5384.141227,1,747.2604389,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel,R1,2020,fixed,5153.557023,1,746.4230084,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel,R1,2030,fixed,5153.557023,1,746.4230084,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel,R1,2040,fixed,5153.557023,1,747.2604389,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel,R1,2050,fixed,5153.557023,1,747.2604389,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,diesel,transport_light,1
+Light Trucks - Battery Electric (BEV),R1,2020,fixed,6648.08856,1,1073.439618,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,electricity,transport_light,1
+Light Trucks - Battery Electric (BEV),R1,2030,fixed,5161.648885,1,673.5665551,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,electricity,transport_light,1
+Light Trucks - Battery Electric (BEV),R1,2040,fixed,4822.178209,1,628.1359507,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,electricity,transport_light,1
+Light Trucks - Battery Electric (BEV),R1,2050,fixed,4779.647149,1,628.1359507,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,electricity,transport_light,1
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2020,fixed,5015.465711,1,723.812385,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2030,fixed,5015.465711,1,750.6101609,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2040,fixed,5015.465711,1,777.4079368,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2050,fixed,5015.465711,1,806.7180042,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2020,fixed,5113.808176,1,733.0241205,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2030,fixed,5121.569916,1,759.8218964,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2040,fixed,5121.569916,1,787.4571028,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2050,fixed,5121.569917,1,817.6046007,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline,R1,2020,fixed,4917.123246,1,715.43808,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline,R1,2030,fixed,4917.123246,1,740.5609949,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline,R1,2040,fixed,4917.123246,1,768.1962013,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline,R1,2050,fixed,4917.123246,1,796.6688383,1,0,1,0,0,0,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light truck - Hydrogen,R1,2020,fixed,6655.010271,1,1846.387967,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,hydrogen,transport_light,1
+Light truck - Hydrogen,R1,2030,fixed,6047.666224,1,1090.606943,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,hydrogen,transport_light,1
+Light truck - Hydrogen,R1,2040,fixed,5495.749109,1,628.1359507,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,hydrogen,transport_light,1
+Light truck - Hydrogen,R1,2050,fixed,4994.200595,1,628.1359507,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,hydrogen,transport_light,1
+Light Trucks - Gasoline hybrid,R1,2020,fixed,5789.765445,1,715.43808,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Gasoline hybrid,R1,2030,fixed,5798.553154,1,715.43808,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Gasoline hybrid,R1,2040,fixed,5807.354201,1,715.43808,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - Gasoline hybrid,R1,2050,fixed,5816.168607,1,715.43808,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gasoline,transport_light,1
+Light Trucks - LPG,R1,2020,fixed,5762.936869,1,892.9733455,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,LPG,transport_light,1
+Light Trucks - LPG,R1,2030,fixed,5771.683857,1,908.8845249,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,LPG,transport_light,1
+Light Trucks - LPG,R1,2040,fixed,5780.444122,1,925.6331349,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,LPG,transport_light,1
+Light Trucks - LPG,R1,2050,fixed,5789.217683,1,942.3817448,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,LPG,transport_light,1
+Light Trucks - Natural gas,R1,2020,fixed,5627.684269,1,847.7520986,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gas,transport_light,1
+Light Trucks - Natural gas,R1,2030,fixed,5636.225971,1,849.4269596,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gas,transport_light,1
+Light Trucks - Natural gas,R1,2040,fixed,5644.780637,1,851.1018206,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gas,transport_light,1
+Light Trucks - Natural gas,R1,2050,fixed,5653.348289,1,851.1018206,1,0,1,1000,20,5000,15,0.65,1,100,0.1,energy,gas,transport_light,1
