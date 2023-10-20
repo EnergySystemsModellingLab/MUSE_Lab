@@ -1,0 +1,65 @@
+asset,year,region,technology,installed,capacity
+0,2020,R1,Heavy trucks - Battery Electric,2020,0.01570000000
+0,2025,R1,Heavy trucks - Battery Electric,2020,0.00820000000
+0,2030,R1,Heavy trucks - Battery Electric,2020,0.00450000000
+1,2020,R1,Heavy trucks - Conventional diesel,2020,24.34410000000
+2,2020,R1,Heavy trucks - Conventional diesel_High Efficiency,2020,89.26880000000
+2,2025,R1,Heavy trucks - Conventional diesel_High Efficiency,2020,196.52290000000
+2,2030,R1,Heavy trucks - Conventional diesel_High Efficiency,2020,188.47850000000
+2,2035,R1,Heavy trucks - Conventional diesel_High Efficiency,2020,112.69830000000
+2,2039,R1,Heavy trucks - Conventional diesel_High Efficiency,2020,112.69830000000
+3,2020,R1,Heavy trucks - Conventional diesel_Medium Efficiency,2020,30.10660000000
+4,2020,R1,Heavy trucks - Conventional gasoline,2020,0.11850000000
+4,2025,R1,Heavy trucks - Conventional gasoline,2020,0.00970000000
+4,2030,R1,Heavy trucks - Conventional gasoline,2020,0.00370000000
+5,2020,R1,Heavy trucks - LPG,2020,0.03060000000
+5,2025,R1,Heavy trucks - LPG,2020,8.91490000000
+5,2030,R1,Heavy trucks - LPG,2020,8.90590000000
+5,2035,R1,Heavy trucks - LPG,2020,8.90150000000
+5,2039,R1,Heavy trucks - LPG,2020,8.90150000000
+6,2020,R1,Heavy trucks - Natural gas,2020,1.83240000000
+6,2025,R1,Heavy trucks - Natural gas,2020,1.83010000000
+6,2030,R1,Heavy trucks - Natural gas,2020,1.54010000000
+7,2020,R1,Light Trucks - Battery Electric (BEV),2020,0.05490000000
+7,2025,R1,Light Trucks - Battery Electric (BEV),2020,0.04090000000
+7,2030,R1,Light Trucks - Battery Electric (BEV),2020,0.02670000000
+8,2020,R1,Light Trucks - Conventional Diesel,2020,12.80740000000
+9,2020,R1,Light Trucks - Conventional Diesel_High Efficiency,2020,11.55570000000
+9,2025,R1,Light Trucks - Conventional Diesel_High Efficiency,2020,39.66290000000
+9,2030,R1,Light Trucks - Conventional Diesel_High Efficiency,2020,38.47310000000
+9,2035,R1,Light Trucks - Conventional Diesel_High Efficiency,2020,29.04620000000
+9,2039,R1,Light Trucks - Conventional Diesel_High Efficiency,2020,29.04620000000
+10,2020,R1,Light Trucks - Conventional Diesel_Medium Efficiency,2020,13.25600000000
+11,2020,R1,Light Trucks - Conventional Gasoline,2020,0.94270000000
+12,2020,R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,0.35850000000
+12,2025,R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,0.33090000000
+12,2030,R1,Light Trucks - Conventional Gasoline_High_Efficiency,2020,0.30300000000
+13,2020,R1,Light Trucks - Conventional Gasoline_Medium Efficiency,2020,0.48960000000
+14,2020,R1,Light Trucks - Gasoline hybrid,2020,0.01590000000
+14,2025,R1,Light Trucks - Gasoline hybrid,2020,0.01580000000
+14,2030,R1,Light Trucks - Gasoline hybrid,2020,0.01320000000
+15,2020,R1,Light Trucks - LPG,2020,0.48740000000
+15,2025,R1,Light Trucks - LPG,2020,0.23350000000
+15,2030,R1,Light Trucks - LPG,2020,0.12210000000
+16,2020,R1,Light Trucks - Natural gas,2020,0.84450000000
+16,2025,R1,Light Trucks - Natural gas,2020,0.77760000000
+16,2030,R1,Light Trucks - Natural gas,2020,0.73440000000
+17,2020,R1,Medium trucks - Battery Electric (BEV),2020,0.14920000000
+17,2025,R1,Medium trucks - Battery Electric (BEV),2020,0.10440000000
+17,2030,R1,Medium trucks - Battery Electric (BEV),2020,0.06760000000
+18,2020,R1,Medium trucks - Conventional Diesel,2020,38.35500000000
+19,2020,R1,Medium trucks - Conventional Diesel_High Efficency,2020,32.91130000000
+19,2025,R1,Medium trucks - Conventional Diesel_High Efficency,2020,30.18440000000
+19,2030,R1,Medium trucks - Conventional Diesel_High Efficency,2020,26.86370000000
+20,2020,R1,Medium trucks - Conventional Diesel_Medium Efficiency,2020,38.86930000000
+21,2020,R1,Medium trucks - Conventional Gasoline,2020,4.88740000000
+21,2025,R1,Medium trucks - Conventional Gasoline,2020,0.96540000000
+21,2030,R1,Medium trucks - Conventional Gasoline,2020,0.87610000000
+22,2020,R1,Medium trucks - LPG,2020,1.36610000000
+22,2025,R1,Medium trucks - LPG,2020,0.62100000000
+22,2030,R1,Medium trucks - LPG,2020,0.31760000000
+23,2020,R1,Medium trucks - Natural gas,2020,2.17490000000
+23,2025,R1,Medium trucks - Natural gas,2020,111.58530000000
+23,2030,R1,Medium trucks - Natural gas,2020,111.01190000000
+23,2035,R1,Medium trucks - Natural gas,2020,110.29940000000
+23,2039,R1,Medium trucks - Natural gas,2020,110.29940000000
