@@ -1,0 +1,29 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,InterestRate,Type,Fuel,EndUse,Agent2
+Unit,-,Year,-,MUS$2010 / btons*km,-,MUS$2010 / btons*km,-,MUS$2010 / btons*km,-,btonskm,%,btonskm,Years,-,PJ,-,-,-,-,Retrofit
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2020,fixed,183.7586054,1,12.47732928,1,0,1,0,0,0,15,0.4186,1,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel_High Efficiency,R1,2020,fixed,187.3617153,1,12.59609398,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Conventional diesel,R1,2020,fixed,180.1554955,1,12.35856458,1,0,1,0,0,0,15,0.4186,1,0.1,energy,diesel,transport_heavy,1
+Heavy trucks - Battery Electric,R1,2020,fixed,339.4074976,1,23.83601833,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,electricity,transport_heavy,1
+Heavy trucks - Conventional gasoline,R1,2020,fixed,180.1554955,1,12.35856458,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,gasoline,transport_heavy,1
+Heavy trucks - Hydrogen,R1,2020,fixed,291.4888638,1,26.6395247,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,hydrogen,transport_heavy,1
+Heavy trucks - LPG,R1,2020,fixed,201.4578945,1,12.77819985,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,LPG,transport_heavy,1
+Heavy trucks - Natural gas,R1,2020,fixed,243.5702299,1,13.73475052,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,gas,transport_heavy,1
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,588.3845096,1,66.50225016,1,0,1,0,0,0,15,0.4186,1,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel_High Efficency,R1,2020,fixed,599.9214608,1,67.27454582,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,diesel,transport_medium,1
+Medium trucks - Conventional Diesel,R1,2020,fixed,576.8475584,1,65.68452534,1,0,1,0,0,0,15,0.4186,1,0.1,energy,diesel,transport_medium,1
+Medium trucks - Battery Electric (BEV),R1,2020,fixed,887.0478577,1,95.22767371,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,electricity,transport_medium,1
+Medium trucks - Conventional Gasoline,R1,2020,fixed,576.8475584,1,65.68452534,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,gasoline,transport_medium,1
+Medium Trucks - Hydrogen,R1,2020,fixed,803.4768053,1,161.2987033,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,hydrogen,transport_medium,1
+Medium trucks - LPG,R1,2020,fixed,645.0566177,1,68.45570389,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,LPG,transport_medium,1
+Medium trucks - Natural gas,R1,2020,fixed,719.9057529,1,68.45570389,1,0,1,100000000,20,100000000,15,0.4186,1,0.1,energy,gas,transport_medium,1
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,5256.628164,1,746.4230084,1,0,1,0,0,0,15,0.65,1,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel_High Efficiency,R1,2020,fixed,5359.699303,1,746.4230084,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,diesel,transport_light,1
+Light Trucks - Conventional Diesel,R1,2020,fixed,5153.557023,1,746.4230084,1,0,1,0,0,0,15,0.65,1,0.1,energy,diesel,transport_light,1
+Light Trucks - Battery Electric (BEV),R1,2020,fixed,6648.08856,1,1073.439618,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,electricity,transport_light,1
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2020,fixed,5015.465711,1,723.812385,1,0,1,0,0,0,15,0.65,1,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2020,fixed,5113.808176,1,733.0241205,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,gasoline,transport_light,1
+Light Trucks - Conventional Gasoline,R1,2020,fixed,4917.123246,1,715.43808,1,0,1,0,0,0,15,0.65,1,0.1,energy,gasoline,transport_light,1
+Light truck - Hydrogen,R1,2020,fixed,6655.010271,1,1846.387967,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,hydrogen,transport_light,1
+Light Trucks - Gasoline hybrid,R1,2020,fixed,5789.765445,1,715.43808,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,gasoline,transport_light,1
+Light Trucks - LPG,R1,2020,fixed,5762.936869,1,892.9733455,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,LPG,transport_light,1
+Light Trucks - Natural gas,R1,2020,fixed,5627.684269,1,847.7520986,1,0,1,100000000,20,100000000,15,0.65,1,0.1,energy,gas,transport_light,1

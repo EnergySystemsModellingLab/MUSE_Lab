@@ -1,0 +1,29 @@
+ProcessName,RegionName,Time,Level,CO2f,electricity,gas,diesel,gasoline,LPG,hydrogen,transport_heavy,transport_medium,transport_light,CH4f,N2Of
+Unit,-,Year,-,kt/PJ,PJ/(km*btons),PJ/(km*btons),PJ/(km*btons),PJ/(km*btons),PJ/(km*btons),PJ/(km*btons),btons*km,btons*km,btons*km,kt/PJ,kt/PJ
+Heavy trucks - Conventional diesel_Medium Efficiency,R1,2020,fixed,0,0,0,0.702692937,0,0,0,0,0,0,0,0
+Heavy trucks - Conventional diesel_High Efficiency,R1,2020,fixed,0,0,0,0.594915198,0,0,0,0,0,0,0,0
+Heavy trucks - Conventional diesel,R1,2020,fixed,0,0,0,0.858161696,0,0,0,0,0,0,0,0
+Heavy trucks - Battery Electric,R1,2020,fixed,0,0.205528846,0,0,0,0,0,0,0,0,0,0
+Heavy trucks - Conventional gasoline,R1,2020,fixed,0,0,0,0,0.577172261,0,0,0,0,0,0,0
+Heavy trucks - Hydrogen,R1,2020,fixed,0,0,0,0,0,0,0.380408654,0,0,0,0,0
+Heavy trucks - LPG,R1,2020,fixed,0,0,0,0,0,0.524022109,0,0,0,0,0,0
+Heavy trucks - Natural gas,R1,2020,fixed,0,0,0.3417556,0,0,0,0,0,0,0,0,0
+Medium trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,0,0,0,2.794112037,0,0,0,0,0,0,0,0
+Medium trucks - Conventional Diesel_High Efficency,R1,2020,fixed,0,0,0,2.527417506,0,0,0,0,0,0,0,0
+Medium trucks - Conventional Diesel,R1,2020,fixed,0,0,0,4.955720601,0,0,0,0,0,0,0,0
+Medium trucks - Battery Electric (BEV),R1,2020,fixed,0,0.873161765,0,0,0,0,0,0,0,0,0,0
+Medium trucks - Conventional Gasoline,R1,2020,fixed,0,0,0,0,2.340228922,0,0,0,0,0,0,0
+Medium Trucks - Hydrogen,R1,2020,fixed,0,0,0,0,0,0,1.616115196,0,0,0,0,0
+Medium trucks - LPG,R1,2020,fixed,0,0,0,0,0,2.225901224,0,0,0,0,0,0
+Medium trucks - Natural gas,R1,2020,fixed,0,0,0.581755605,0,0,0,0,0,0,0,0,0
+Light Trucks - Conventional Diesel_Medium Efficiency,R1,2020,fixed,0,0,0,5.294992112,0,0,0,0,0,0,0,0
+Light Trucks - Conventional Diesel_High Efficiency,R1,2020,fixed,0,0,0,4.813629193,0,0,0,0,0,0,0,0
+Light Trucks - Conventional Diesel,R1,2020,fixed,0,0,0,5.824491324,0,0,0,0,0,0,0,0
+Light Trucks - Battery Electric (BEV),R1,2020,fixed,0,1.662992739,0,0,0,0,0,0,0,0,0,0
+Light Trucks - Conventional Gasoline_Medium Efficiency,R1,2020,fixed,0,0,0,0,5.750372393,0,0,0,0,0,0,0
+Light Trucks - Conventional Gasoline_High_Efficiency,R1,2020,fixed,0,0,0,0,5.20271788,0,0,0,0,0,0,0
+Light Trucks - Conventional Gasoline,R1,2020,fixed,0,0,0,0,6.355674752,0,0,0,0,0,0,0
+Light truck - Hydrogen,R1,2020,fixed,0,0,0,0,0,3.077995332,0,0,0,0,0,0
+Light Trucks - Gasoline hybrid,R1,2020,fixed,0,0,0,0,3.525494673,0,0,0,0,0,0,0
+Light Trucks - LPG,R1,2020,fixed,0,0,0,0,0,5.418864989,0,0,0,0,0,0
+Light Trucks - Natural gas,R1,2020,fixed,0,0,1.111469072,0,0,0,0,0,0,0,0,0
