@@ -1,0 +1,5 @@
+SectorName,FunctionType,Coeff,RegionName,transport_heavy,transport_medium,transport_light
+road_truck,LogisticSigmoid2,GDPexp,R1,1.39E+03,961.93042,427.52463
+road_truck,LogisticSigmoid2,constant,R1,1946.79052,1347.77805,599.01247
+road_truck,LogisticSigmoid2,GDPscaleLess,R1,31638.65666,31638.65666,31638.65666
+road_truck,LogisticSigmoid2,GDPscaleGreater,R1,37.86657,37.86657,37.86657
