@@ -105,22 +105,6 @@ constraints = [  # Optional, defaults to the constraints below
 demand_share = "new_and_retro"  # Optional, default to new_and_retro
 forecast = 5  # Optional, defaults to 5 
 
-[[sectors.road_truck.outputs]]
-filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
-quantity = "capacity"
-sink = 'csv'
-overwrite = true
-index = false
-
-[[sectors.road_truck.outputs]]
-filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
-quantity.name = "supply"
-quantity.sum_over = "timeslice"
-quantity.drop = ["comm_usage", "units_prices"]
-sink = 'csv'
-overwrite = true
-
-
 [[sectors.road_truck.interactions]] 
 net = 'new_to_retro'
 interaction = 'transfer'
